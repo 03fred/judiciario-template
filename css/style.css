@@ -1,0 +1,51 @@
+
+
+    @media screen and (max-width: 767px) {
+      .sidenav {
+        height: auto;
+        padding: 15px;
+      }
+
+      .row.content {
+        height: auto;
+      }
+    }
+
+    h5 {
+      font-weight: bold;
+    }
+
+
+    .btn-default {
+      background-color: #2B1723;
+      color:#fff;
+      font-weight: bold;
+      font-size: 15px;
+    }
+
+    .col-sm-8 {
+      line-height: 3px;
+      border-width: medium;
+      border-style: solid;
+      border-color: #000;
+    }
+    .col-sm-3 {
+      line-height: 8.5px;
+      border-width: medium;
+      border-style: solid;
+      border-color: #000;
+    }
+
+    .col-sm-9 {
+      padding: 15px;
+    }
+
+    footer {
+      background-color: #555;
+      color: white;
+      width: 100%;
+      padding: 15px;
+    }
+    img{
+      margin-top:20px;
+    }
