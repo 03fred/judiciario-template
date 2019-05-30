@@ -1,4 +1,7 @@
 
+*{
+  font-family: sans-serif;
+}
 
     @media screen and (max-width: 767px) {
       .sidenav {
@@ -11,7 +14,7 @@
       }
     }
 
-    h5 {
+    h4 {
       font-weight: bold;
     }
     li{
@@ -28,13 +31,13 @@
       line-height: 3px;
       border-width: medium;
       border-style: solid;
-      border-color: #000;
+      border-color:#ccc;
     }
     .col-sm-3 {
       line-height: 8.5px;
       border-width: medium;
       border-style: solid;
-      border-color: #000;
+      border-color:#ccc;
     }
 
     .col-sm-9 {
@@ -50,10 +53,12 @@
 
 
     @media screen and (max-width: 767px) {
-      img {
+      #logo {
         width: 100%;
-      }
+        height: auto;
     }
+
+  }
 .container{
   margin-top: 0.15em;
 }
